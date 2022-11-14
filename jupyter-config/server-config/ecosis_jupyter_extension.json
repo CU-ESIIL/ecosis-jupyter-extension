@@ -1,0 +1,7 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "ecosis_jupyter_extension": true
+    }
+  }
+}
