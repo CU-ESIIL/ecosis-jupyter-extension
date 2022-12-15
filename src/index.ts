@@ -20,7 +20,8 @@ var valuesUrl = new URL(PageConfig.getBaseUrl() + 'maapsec/environment');
 request('get', valuesUrl.href).then((res: RequestResult) => {
     if (res.ok) {
         let environment = JSON.parse(res.data);
-        ecosis_server = window.location.protocol + "//" + window.location.hostname + ":" + environment['ecosis_proxy_port'];
+        //ecosis_server = window.location.protocol + "//" + window.location.hostname + ":" + environment['ecosis_proxy_port'];
+        ecosis_server = environment['ecosis_server']
         console.log("Setting ecosis url as: ", ecosis_server)
     }
 });
