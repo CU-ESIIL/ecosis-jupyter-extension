@@ -1302,7 +1302,7 @@
   resolved "https://registry.yarnpkg.com/@juggle/resize-observer/-/resize-observer-3.4.0.tgz#08d6c5e20cf7e4cc02fd181c4b0c225cd31dbb60"
   integrity sha512-dfLbk+PwWvFzSxwk3n5ySL0hfBog779o8h68wK/7/APo/7cgyWp5jcXockbxdk5kFRkbeXWm4Fbi9FrdN381sA==
 
-"@jupyterlab/application@^3.5.1":
+"@jupyterlab/application@^3.4.8":
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-3.5.1.tgz#fc88ec34b12ddeb0a242016a984f28bcbcedbfa2"
   integrity sha512-TC36rE7aRup7OL5tDlOjYUyS90qb/UTNe1YumQDiYMeYRVnx3AXZIlazxYlUPxfx3CK1Y1YwrHcuFggS+BkRqw==
@@ -1328,7 +1328,7 @@
     "@lumino/signaling" "^1.10.0"
     "@lumino/widgets" "^1.33.0"
 
-"@jupyterlab/apputils@^3.5.1":
+"@jupyterlab/apputils@^3.4.8", "@jupyterlab/apputils@^3.5.1":
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/apputils/-/apputils-3.5.1.tgz#d277d1f6686046d95d22cd68fe0e8fec47c9d672"
   integrity sha512-AfN3qMOaoFZ4LAHuTPE9OhVn55d5fec6seltx7iqYeJSwBLLVmHmdlgbUYPuZjs2P3CsFe3wemaXtN2a2mVAWA==
@@ -1506,7 +1506,7 @@
     react "^17.0.1"
     y-codemirror "^3.0.1"
 
-"@jupyterlab/coreutils@^5.5.1":
+"@jupyterlab/coreutils@^5.4.5", "@jupyterlab/coreutils@^5.5.1":
   version "5.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/coreutils/-/coreutils-5.5.1.tgz#b8256928f06aa8d84a12009c01370e26f8651148"
   integrity sha512-KnM22CGucdvH8ZjW4EECfTaK0C7pm+M1SiGMKiB7DJTfRObrhxOYByURS4KEZmBD8zZKoQQ6mFpn+Lnx7zZgjw==
@@ -1602,7 +1602,7 @@
     "@lumino/widgets" "^1.33.0"
     react "^17.0.1"
 
-"@jupyterlab/mainmenu@^3.5.1":
+"@jupyterlab/mainmenu@^3.4.8":
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/mainmenu/-/mainmenu-3.5.1.tgz#d85c9ac6f560a913b2d86b3032e3c0aeb4fffe74"
   integrity sha512-eiLqkmwu2Td+X2QeMggbxLKk9SJYVrm7xuVvRsH6g3RUULgc8TM1dPxFNqt7Heakhy0OpcxYPcuIueNnCIz0QQ==
@@ -1714,7 +1714,7 @@
     lodash.escape "^4.0.1"
     marked "^4.0.17"
 
-"@jupyterlab/services@^6.5.1":
+"@jupyterlab/services@^6.5.0", "@jupyterlab/services@^6.5.1":
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/services/-/services-6.5.1.tgz#6095360c382966a974274e7508f1bb0edbf125e6"
   integrity sha512-Y4nVx0e9aEoB7ehU0Y0OJYDV8UAPHRI9p+diulSOZg+QnFoB5CzQHYM+ye8PByWXTMPFJjSOYcf/i6DQWUmRwQ==
