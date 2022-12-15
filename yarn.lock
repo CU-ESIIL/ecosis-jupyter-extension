@@ -1714,7 +1714,7 @@
     lodash.escape "^4.0.1"
     marked "^4.0.17"
 
-"@jupyterlab/services@^6.5.0", "@jupyterlab/services@^6.5.1":
+"@jupyterlab/services@^6.4.5", "@jupyterlab/services@^6.5.1":
   version "6.5.1"
   resolved "https://registry.yarnpkg.com/@jupyterlab/services/-/services-6.5.1.tgz#6095360c382966a974274e7508f1bb0edbf125e6"
   integrity sha512-Y4nVx0e9aEoB7ehU0Y0OJYDV8UAPHRI9p+diulSOZg+QnFoB5CzQHYM+ye8PByWXTMPFJjSOYcf/i6DQWUmRwQ==
